@@ -1,5 +1,5 @@
 # user-retention-analytics
-Product analysis case study
+Product analysis case study - In Progress
 
 # User Retention & Engagement Analytics — Portfolio Project
 
