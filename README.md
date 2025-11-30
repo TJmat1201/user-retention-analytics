@@ -33,5 +33,5 @@ This project simulates and analyzes user engagement data for a mobile app to ans
 ## Quick start (local)
 1. Clone the repo:
    ```bash
-   git clone <your-repo-url>
+   git clone <repo-url>
    cd user-retention-analytics
